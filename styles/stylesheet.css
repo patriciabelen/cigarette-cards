@@ -180,9 +180,6 @@ header {
 	padding: 30px 0 20px 0;
 		background-color:var(--pink);
 }
-body.home header {
-	display: none;
-}
 header .grid {
 	justify-content: center;
     align-items: flex-end;
@@ -301,7 +298,6 @@ input[type=text]:focus {
 
 /* --------------------------------- HOME ----*/
 .hometop {
-	display: none;
 	background-color: var(--pink);
    	width: 100%;
    	padding-bottom: 80px;
